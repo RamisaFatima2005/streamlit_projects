@@ -1,7 +1,7 @@
 import streamlit as st
 import random
 
-st.title("🤖 Computer Guessing Game")
+st.title("🤖 Computer Guess The Number Game")
 st.write("Think of a number between 1 and 100, and let the computer guess it!")
 
 # Initialize game state
