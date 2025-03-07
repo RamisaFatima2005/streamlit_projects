@@ -29,3 +29,7 @@ https://appprojects-vpphhbd3qjbnsxzuku3yzv.streamlit.app/
 🔢 User Guess The Number Game!
 
 https://appprojects-vdkulzp9wfghdtbsdcrahc.streamlit.app/
+
+🔐 Random Password Generator
+
+https://appprojects-hgervcdhsrzrvxn3jdcfal.streamlit.app/
