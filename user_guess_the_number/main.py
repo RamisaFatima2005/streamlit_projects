@@ -8,7 +8,7 @@ def reset_game():
     st.session_state.game_over = False
 
 def main():
-    st.title("Number Guessing Game")
+    st.title("🔢 User Guess The Number Game!")
     st.write("You have 5 attempts to guess the number between 50 and 100. Let's start the game!")
     
     if "number_to_guess" not in st.session_state:
