@@ -26,6 +26,6 @@ https://appprojects-8qtkrrnh6rpp6tvm6oq45a.streamlit.app/
 
 https://appprojects-vpphhbd3qjbnsxzuku3yzv.streamlit.app/
 
-User Guess The Number Game!
+🔢 User Guess The Number Game!
 
 https://appprojects-vdkulzp9wfghdtbsdcrahc.streamlit.app/
